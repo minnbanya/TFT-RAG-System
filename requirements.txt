@@ -1,0 +1,20 @@
+# Orchestration & Model Interface
+langchain>=0.2.0
+langgraph>=0.1.0
+pydantic>=2.0.0
+pyyaml>=6.0.1
+
+# Vector Database & Retrieval
+chromadb>=0.5.0
+rank-bm25>=0.2.2
+sentence-transformers>=3.0.0
+tiktoken>=0.7.0
+
+# Scraping & Ingestion
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+markdownify>=0.12.1
+
+# Phase 3 Evaluation
+ragas>=0.1.0
+pytest>=8.0.0
