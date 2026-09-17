@@ -39,4 +39,4 @@ if __name__ == "__main__":
     spider = TFTPatchSpider()
     urls = spider.fetch_patch_list()
     if urls:
-        spider.download_html(urls[0], "latest_patch_html")
+        spider.download_html(urls[0], "latest_patch.html")
