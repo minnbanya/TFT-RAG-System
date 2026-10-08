@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What balance changes were made to Ashe?",
+    "ground_truth": "Ashe's arrow damage was increased and her DoT base damage was increased."
+  },
+  {
+    "question": "What are the patch changes for League of Legends Summoner's Rift Baron Nashor?",
+    "ground_truth": "I cannot answer this question because the provided patch notes do not contain sufficient evidence."
+  }
+]
