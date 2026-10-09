@@ -1,0 +1,3 @@
+# Ignore data sets or documentation
+docs/* linguist-documentation
+data/*.json linguist-generated
